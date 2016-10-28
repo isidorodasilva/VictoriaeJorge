@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "509253239666",
+    "firebase_url": "https://victoria-e-jorge-56702.firebaseio.com",
+    "project_id": "victoria-e-jorge-56702",
+    "storage_bucket": "victoria-e-jorge-56702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509253239666:android:de3937af21bd3153",
+        "android_client_info": {
+          "package_name": "com.example.isidorodasilva.victoriaejorge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509253239666-h7tguj8b2sk0fccmad5pigaevob8j3ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isidorodasilva.victoriaejorge",
+            "certificate_hash": "581A8F9F137A0E1CD09299F6D2D4B79FA54C414E"
+          }
+        },
+        {
+          "client_id": "509253239666-q82ri0c5qegpleg8vpsvs8grckcjdlf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnv3a1IndwWAUbytV3XsALFZpAGU20tiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509253239666-q82ri0c5qegpleg8vpsvs8grckcjdlf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

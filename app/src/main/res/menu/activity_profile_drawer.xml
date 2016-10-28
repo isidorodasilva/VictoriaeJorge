@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_temp"
+            android:icon="@drawable/fog"
+            android:title="Temperatura" />
+        <item
+            android:id="@+id/nav_agenda"
+            android:icon="@drawable/checklist"
+            android:title="Agenda" />
+        <item
+            android:id="@+id/nav_mesas"
+            android:icon="@drawable/cutlery"
+            android:title="Mesas" />
+        <item
+            android:id="@+id/nav_mural"
+            android:icon="@drawable/news"
+            android:title="Mural" />
+    </group>
+
+    <item android:title="Saiba +">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutapp"
+                android:icon="@drawable/info"
+                android:title="Sobre a App." />
+            <item
+                android:id="@+id/nav_develop"
+                android:icon="@drawable/code"
+                android:title="Developer" />
+        </menu>
+    </item>
+</menu>
